@@ -90,19 +90,15 @@ export default async function handler(
     // Descargar HTML
     // ----------------------------
 
-    const { data: html } = await axios.get(songUrl, {
+    const page = await axios.get(songUrl, {
       headers: {
         "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/137.0 Safari/537.36",
-        "Accept":
-          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/137 Safari/537.36",
+        Accept:
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache",
-        "Referer": "https://genius.com/",
       },
-    })
+    });
 
     const $ = cheerio.load(page.data);
 
@@ -136,12 +132,15 @@ export default async function handler(
     return res.status(200).json({
       lyrics,
     });
-  } catch (error: any) {
-    console.error("Error fetching lyrics:", error);
-  
+  } catch (err: any) {
+    console.error("GENIUS ERROR");
+    console.error(err.response?.status);
+    console.error(err.response?.data);
+    console.error(err.message);
+
     return res.status(500).json({
       error: "Failed to fetch lyrics.",
-      details: error.message,
+      details: err.message,
     });
   }
 }
