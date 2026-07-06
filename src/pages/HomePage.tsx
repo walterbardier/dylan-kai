@@ -18,8 +18,8 @@ export function HomePage({ navigate, lang }: { navigate: Navigate; lang: Lang })
     discography: lang === 'es' ? 'Discografía' : 'Discography',
     viewAll: lang === 'es' ? 'Ver Todos' : 'View All',
     quote: lang === 'es' 
-      ? 'La música es el espacio entre las estrellas — no las estrellas en sí mismas.' 
-      : 'Music is the space between the stars — not the stars themselves.',
+      ? 'Cada álbum es el génesis de un Big Bang — un estallido que prolonga mi universo y fecunda galaxias donde habito, simultáneamente, en cada una de sus estrellas.' 
+      : 'Each album is the genesis of a Big Bang — an explosion that expands my universe and gives birth to new galaxies, where I dwell in every one of them simultaneously.',
     blogLbl: lang === 'es' ? 'Desde el Blog' : 'From the Blog',
     allPosts: lang === 'es' ? 'Todos los artículos' : 'All Posts'
   }
