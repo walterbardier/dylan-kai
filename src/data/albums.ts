@@ -51,7 +51,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 2, title: 'Serial Killer', year: 2023,
-    cover: '/images/album-2/album-2.jpg', bg: '/images/album-2/album-2-bg.jpg',
+    cover: '/images/album-2/album-2.JPG', bg: '/images/album-2/album-2-bg.jpg',
     era: {
       en: 'The Decay of Holy City',
       es: 'La Decadecia de Ciudad Santa'
