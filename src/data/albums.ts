@@ -14,7 +14,7 @@ export const BUBBLE_POS = [
 export const ALBUMS: AlbumData[] = [
   {
     id: 1, title: 'SPACE CLUB', year: 2022,
-    cover: '/images/album-1/album-1.JPG', bg: '/images/album-1/album-1-bg.JPEG',
+    cover: '/images/album-1/album-1.jpg', bg: '/images/album-1/album-1-bg.jpeg',
     era: {
       en: 'Neon Memories of Youth',
       es: 'Recuerdos Neon de la Juventud'
@@ -31,8 +31,8 @@ export const ALBUMS: AlbumData[] = [
     tags: ['dream pop', 'nostalgia', 'cosmic'],
 
     gallery: [
-      '/images/album-1/album-1-bg.JPEG',
-      '/images/album-1/gallery-1.JPG',
+      '/images/album-1/album-1-bg.jpeg',
+      '/images/album-1/gallery-1.jpg',
       '/images/album-1/gallery-2.png',
       '/images/album-1/gallery-3.png',
       '/images/album-1/gallery-4.png',
@@ -51,7 +51,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 2, title: 'Serial Killer', year: 2023,
-    cover: '/images/album-2/album-2.JPG', bg: '/images/album-2/album-2-bg.JPG',
+    cover: '/images/album-2/album-2.jpg', bg: '/images/album-2/album-2-bg.jpg',
     era: {
       en: 'The Decay of Holy City',
       es: 'La Decadecia de Ciudad Santa'
@@ -70,17 +70,17 @@ export const ALBUMS: AlbumData[] = [
     tags: ['alt-pop', 'dark', 'mental health'],
 
     gallery: [
-      '/images/album-2/album-2-bg.JPG',
-      '/images/album-2/gallery-1.JPG',
-      '/images/album-2/gallery-2.JPG',
-      '/images/album-2/gallery-3.JPG',
-      '/images/album-2/gallery-4.JPG',
-      '/images/album-2/gallery-5.JPG',
-      '/images/album-2/gallery-6.JPG',
-      '/images/album-2/gallery-7.JPG',
-      '/images/album-2/gallery-8.JPG',
-      '/images/album-2/gallery-9.JPG',
-      '/images/album-2/gallery-10.JPG',
+      '/images/album-2/album-2-bg.jpg',
+      '/images/album-2/gallery-1.jpg',
+      '/images/album-2/gallery-2.jpg',
+      '/images/album-2/gallery-3.jpg',
+      '/images/album-2/gallery-4.jpg',
+      '/images/album-2/gallery-5.jpg',
+      '/images/album-2/gallery-6.jpg',
+      '/images/album-2/gallery-7.jpg',
+      '/images/album-2/gallery-8.jpg',
+      '/images/album-2/gallery-9.jpg',
+      '/images/album-2/gallery-10.jpg',
     ],
     spotifyLink: 'https://spotify.com/...',
     appleMusicLink: 'https://apple.com/...',
@@ -88,7 +88,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 3, title: "Sally's Seams", year: 2023,
-    cover: '/images/album-3/album-3.JPG', bg: '/images/album-3/album-3-bg.JPG',
+    cover: '/images/album-3/album-3.jpg', bg: '/images/album-3/album-3-bg.jpg',
     era: {
       en: 'Lessons from the Tower',
       es: 'Lecciones de la Torre'
@@ -106,20 +106,20 @@ export const ALBUMS: AlbumData[] = [
     tags: ['indie folk', 'alt rock', 'autumn'],
 
     gallery: [
-      '/images/album-3/album-3-bg.JPG',
-      '/images/album-3/gallery-1.JPG',
-      '/images/album-3/gallery-2.JPG',
-      '/images/album-3/gallery-3.JPG',
-      '/images/album-3/gallery-4.JPG',
-      '/images/album-3/gallery-5.JPG',
-      '/images/album-3/gallery-6.JPG',
-      '/images/album-3/gallery-7.JPG',
-      '/images/album-3/gallery-8.JPG',
-      '/images/album-3/gallery-9.JPG',
-      '/images/album-3/gallery-10.JPG',
-      '/images/album-3/gallery-11.JPG',
-      '/images/album-3/gallery-12.JPG',
-      '/images/album-3/gallery-13.JPG',
+      '/images/album-3/album-3-bg.jpg',
+      '/images/album-3/gallery-1.jpg',
+      '/images/album-3/gallery-2.jpg',
+      '/images/album-3/gallery-3.jpg',
+      '/images/album-3/gallery-4.jpg',
+      '/images/album-3/gallery-5.jpg',
+      '/images/album-3/gallery-6.jpg',
+      '/images/album-3/gallery-7.jpg',
+      '/images/album-3/gallery-8.jpg',
+      '/images/album-3/gallery-9.jpg',
+      '/images/album-3/gallery-10.jpg',
+      '/images/album-3/gallery-11.jpg',
+      '/images/album-3/gallery-12.jpg',
+      '/images/album-3/gallery-13.jpg',
     ],
     spotifyLink: 'https://spotify.com/...',
     appleMusicLink: 'https://apple.com/...',
@@ -127,7 +127,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 4, title: 'Summer breeze guide me through these empty streets', year: 2024,
-    cover: '/images/album-4/album-4.JPG', bg: '/images/album-4/album-4-bg.JPG',
+    cover: '/images/album-4/album-4.jpg', bg: '/images/album-4/album-4-bg.jpg',
     era: {
       en: 'Echoes of Fragmented Worlds',
       es: 'Ecos de Mundos Fragmentados'
@@ -146,22 +146,22 @@ export const ALBUMS: AlbumData[] = [
     tags: ['dance pop', 'house', 'transformation'],
 
     gallery: [
-      '/images/album-4/album-4-bg.JPG',
-      '/images/album-4/gallery-1.JPG',
-      '/images/album-4/gallery-2.JPG',
-      '/images/album-4/gallery-3.JPG',
-      '/images/album-4/gallery-4.JPG',
-      '/images/album-4/gallery-5.JPG',
-      '/images/album-4/gallery-6.JPG',
+      '/images/album-4/album-4-bg.jpg',
+      '/images/album-4/gallery-1.jpg',
+      '/images/album-4/gallery-2.jpg',
+      '/images/album-4/gallery-3.jpg',
+      '/images/album-4/gallery-4.jpg',
+      '/images/album-4/gallery-5.jpg',
+      '/images/album-4/gallery-6.jpg',
       '/images/album-4/gallery-7.png',
-      '/images/album-4/gallery-8.JPG',
-      '/images/album-4/gallery-9.JPG',
-      '/images/album-4/gallery-10.JPG',
+      '/images/album-4/gallery-8.jpg',
+      '/images/album-4/gallery-9.jpg',
+      '/images/album-4/gallery-10.jpg',
       '/images/album-4/gallery-11.png',
-      '/images/album-4/gallery-12.JPG',
+      '/images/album-4/gallery-12.jpg',
       '/images/album-4/gallery-13.png',
       '/images/album-4/gallery-14.png',
-      '/images/album-4/gallery-15.JPG',
+      '/images/album-4/gallery-15.jpg',
       '/images/album-4/gallery-16.png',
       '/images/album-4/gallery-17.png',
       '/images/album-4/gallery-18.png',
@@ -173,7 +173,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 5, title: 'Towa', year: 2026,
-    cover: '/images/album-5/album-5.JPG', bg: '/images/album-5/album-5-bg.JPG',
+    cover: '/images/album-5/album-5.jpg', bg: '/images/album-5/album-5-bg.jpg',
     era: {
       en: 'Fragments of Eternity',
       es: 'Fragmentos de la Eternidad'
@@ -191,21 +191,21 @@ export const ALBUMS: AlbumData[] = [
     tags: ['alternative', 'sexual', 'meditation'],
 
     gallery: [
-      '/images/album-5/album-5-bg.JPG',
-      '/images/album-5/gallery-1.JPG',
-      '/images/album-5/gallery-2.JPG',
-      '/images/album-5/gallery-3.JPG',
-      '/images/album-5/gallery-4.JPG',
-      '/images/album-5/gallery-5.JPEG',
-      '/images/album-5/gallery-6.JPG',
-      '/images/album-5/gallery-7.JPEG',
+      '/images/album-5/album-5-bg.jpg',
+      '/images/album-5/gallery-1.jpg',
+      '/images/album-5/gallery-2.jpg',
+      '/images/album-5/gallery-3.jpg',
+      '/images/album-5/gallery-4.jpg',
+      '/images/album-5/gallery-5.jpeg',
+      '/images/album-5/gallery-6.jpg',
+      '/images/album-5/gallery-7.jpeg',
       '/images/album-5/gallery-8.png',
-      '/images/album-5/gallery-9.JPG',
-      '/images/album-5/gallery-10.JPG',
-      '/images/album-5/gallery-11.JPG',
-      '/images/album-5/gallery-12.JPG',
-      '/images/album-5/gallery-13.JPG',
-      '/images/album-5/gallery-14.JPG',
+      '/images/album-5/gallery-9.jpg',
+      '/images/album-5/gallery-10.jpg',
+      '/images/album-5/gallery-11.jpg',
+      '/images/album-5/gallery-12.jpg',
+      '/images/album-5/gallery-13.jpg',
+      '/images/album-5/gallery-14.jpg',
     ],
     spotifyLink: 'https://spotify.com/...',
     appleMusicLink: 'https://apple.com/...',
@@ -213,7 +213,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 6, title: 'cinephile', year: 2026,
-    cover: '/images/album-6/album-6.JPG', bg: '/images/album-6/album-6-bg.JPG',
+    cover: '/images/album-6/album-6.jpg', bg: '/images/album-6/album-6-bg.jpg',
     era: {
       en: 'The Broken Tape',
       es: 'La Cinta Rota'
@@ -231,7 +231,7 @@ export const ALBUMS: AlbumData[] = [
     tags: ['synth pop', 'alt rock', 'escapism'],
 
     gallery: [
-      '/images/album-6/album-6-bg.JPG',
+      '/images/album-6/album-6-bg.jpg',
       '/images/album-6/gallery-1.png',
 
     ],
@@ -241,7 +241,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 7, title: 'DIVINE LAW', year: 2027,
-    cover: '/images/album-7/album-7.JPEG', bg: '/images/album-7/album-7-bg.JPG',
+    cover: '/images/album-7/album-7.jpeg', bg: '/images/album-7/album-7-bg.jpg',
     era: {
       en: 'The Fallen Primordial',
       es: 'El Caido Primordial'
@@ -258,8 +258,8 @@ export const ALBUMS: AlbumData[] = [
     tags: ['dark ambient', 'drone', 'rebirh', 'mythology'],
     
     gallery: [
-      '/images/album-7/album-7-bg.JPG',
-      '/images/album-7/gallery-1.JPG',
+      '/images/album-7/album-7-bg.jpg',
+      '/images/album-7/gallery-1.jpg',
     ],
     spotifyLink: 'https://spotify.com/...',
     appleMusicLink: 'https://apple.com/...',
@@ -267,7 +267,7 @@ export const ALBUMS: AlbumData[] = [
   },
   {
     id: 8, title: '5 0 3', year: 2027,
-    cover: '/images/album-8/album-8.JPG', bg: '/images/album-8/album-8-bg.JPG',
+    cover: '/images/album-8/album-8.jpg', bg: '/images/album-8/album-8-bg.jpg',
     era: {
       en: 'ERROR: 5 0 3 Simulation',
       es: 'ERROR: Simulación 5 0 3'
@@ -284,17 +284,17 @@ export const ALBUMS: AlbumData[] = [
     tags: ['dance pop', 'sci-fi', 'existential', 'identity'],
 
     gallery: [
-      '/images/album-8/album-8-bg.JPG',
-      '/images/album-8/gallery-1.JPG',
-      '/images/album-8/gallery-2.JPG',
-      '/images/album-8/gallery-3.JPG',
-      '/images/album-8/gallery-4.JPG',
-      '/images/album-8/gallery-5.JPG',
-      '/images/album-8/gallery-6.JPG',
-      '/images/album-8/gallery-7.JPG',
-      '/images/album-8/gallery-8.JPG',
-      '/images/album-8/gallery-9.JPG',
-      '/images/album-8/gallery-10.JPG',
+      '/images/album-8/album-8-bg.jpg',
+      '/images/album-8/gallery-1.jpg',
+      '/images/album-8/gallery-2.jpg',
+      '/images/album-8/gallery-3.jpg',
+      '/images/album-8/gallery-4.jpg',
+      '/images/album-8/gallery-5.jpg',
+      '/images/album-8/gallery-6.jpg',
+      '/images/album-8/gallery-7.jpg',
+      '/images/album-8/gallery-8.jpg',
+      '/images/album-8/gallery-9.jpg',
+      '/images/album-8/gallery-10.jpg',
     ],
     spotifyLink: 'https://spotify.com/...',
     appleMusicLink: 'https://apple.com/...',
