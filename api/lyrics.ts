@@ -137,12 +137,10 @@ export default async function handler(
       lyrics,
     });
   } catch (error: any) {
-    console.error(error.response?.status);
-    console.error(error.config?.url);
+    console.error("Error fetching lyrics:", error);
   
     return res.status(500).json({
-      status: error.response?.status,
-      url: error.config?.url,
+      error: "Failed to fetch lyrics.",
       details: error.message,
     });
   }
