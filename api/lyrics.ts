@@ -132,15 +132,14 @@ export default async function handler(
     return res.status(200).json({
       lyrics,
     });
-  } catch (err: any) {
-    console.error("GENIUS ERROR");
-    console.error(err.response?.status);
-    console.error(err.response?.data);
-    console.error(err.message);
-
+  } catch (error: any) {
+    console.error(error.response?.status);
+    console.error(error.config?.url);
+  
     return res.status(500).json({
-      error: "Failed to fetch lyrics.",
-      details: err.message,
+      status: error.response?.status,
+      url: error.config?.url,
+      details: error.message,
     });
   }
 }
