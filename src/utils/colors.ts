@@ -1,5 +1,3 @@
-// src/utils/colors.ts
-
 export function lightenColor(hex: string, amount: number): string {
   let color = hex.replace('#', '');
   let r = parseInt(color.substring(0, 2), 16) / 255;
