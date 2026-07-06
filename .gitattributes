@@ -1,0 +1,14 @@
+# Normaliza los saltos de línea para todos los archivos de texto
+* text=auto eol=lf
+
+# Evita que Git toque o modifique imágenes, audios o fuentes
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+*.mp3 binary
+*.mp4 binary
+*.woff binary
+*.woff2 binary
