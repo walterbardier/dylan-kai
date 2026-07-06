@@ -244,7 +244,7 @@ export function HomePage({ navigate, lang }: { navigate: Navigate; lang: Lang })
           {t.quote}
         </p>
 
-        <p className="mt-6 text-[11px] tracking-[0.3em] text-white/[0.22]">
+        <p className="mt-6 text-[12px] tracking-[0.3em] text-white/[0.22]">
           — Dylan Kai
         </p>
       </section>
