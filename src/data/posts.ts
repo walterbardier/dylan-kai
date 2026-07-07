@@ -3,21 +3,112 @@ import { PostData } from '../types';
 export const POSTS: PostData[] = [
   { id: 1,
     title: {
-      en: "DK3 Introduction",
-      es: "DK3 Introduction",
+      en: '"make me dance" — Dancing Through the Chaos',
+      es: '"make me dance" — Bailando en el Caos',
     },
     excerpt: {
-      en: "Descripción corta...",
-      es: "",
+      en: "A deep dive into 'make me dance', an alternative electropop track that uses dance as a metaphor for resilience, healing, and reclaiming joy in the face of adversity.",
+      es: "Una mirada profunda a 'make me dance', una emotiva canción de electropop alternativo que utiliza el baile como metáfora de resiliencia, sanación y el deseo de reclamar la alegría frente a la adversidad."
     },
     content: {
-      en: "Aquí va todo el contenido completo en español...",
-      es: "Here goes the full content in English...",
+      en: `
+      "make me dance" by Dylan Kai is an emotional alternative electropop song released in 2024. It explores the ups and downs of healing and self-improvement, using dance as a metaphor for life, declaring the intention to live fully and reclaim joy despite the difficulties.
+
+      ## 1. Inner Conflict and Surrender (Verses)
+
+      The song starts by showing deep vulnerability and a mind that sabotages the protagonist's happiness:
+
+      > "Dark skies in my eyes / Looking at you like a knife"
+
+      The artist describes a gaze clouded by depression or anxiety, where eye contact feels sharp and painful.
+
+      Here he exposes the clash between a self-destructive reason ("cursed mind") and the emotional fragility of himself or his surroundings ("bleeding heart").
+
+      > "Fighting day and night won't lead to immortality"
+
+      A mature acceptance that wearing oneself out in internal or relationship conflicts solves nothing.
+
+      ## 2. Transformation Through Dance (Pre-Chorus)
+
+      Facing this bleak outlook, an opportunity for change appears:
+
+      > "There's a chance to dance / I choose to spend it on you too / I took it and transform it too"
+
+      The "dance" here is a clear metaphor for life. Deciding to dance implies stopping being a spectator of one's own misery and taking an active role to transmute pain into movement and art.
+
+      ## 3. Refuge in the Face of Chaos (Chorus)
+
+      > "Make me dance eclipsing the shame"
+
+      The protagonist asks for an external stimulus (music, love, or connection) to hide past insecurities and guilt. The dance acts as a temporary "eclipse" that blocks out the negative.
+
+      > "Earth is burning but there's no one to blame"
+
+      This represents external chaos or the collapse of personal life. He accepts that crises simply happen, freeing himself from the burden of seeking culprits in order to focus solely on surviving by enjoying the present.
+      
+      ## 4. Reclaiming the Right to Love (Bridge)
+
+      Toward the end, the song becomes a cry of resistance:
+
+      > "Don't blame me for loving you right / Even if I die / Don't blame the flames"
+
+      The message of absolute freedom is consolidated. The artist claims that giving love in a healthy way is his greatest victory, even if the environment ("the flames") is hostile.
+
+      In short, the lyrics of "make me dance" are a declaration of resilience. He accepts that the mind can be a dark place and the world a chaotic one, but he defends that there is always the option to choose with whom and how to "dance" the time we have left.
+      `,
+      es: `
+      "make me dance" de Dylan Kai es una emotiva canción de electropop alternativo lanzada en 2024. Explora los altibajos de la sanación y la superación personal, utilizando el baile como metáfora de la vida, declarando la intención de vivir plenamente y reclamar la alegría a pesar de las dificultades.
+
+      ## 1. El Conflicto Interno y la Rendición (Estrofas)
+
+      La canción arranca mostrando una profunda vulnerabilidad y una mente que sabotea la felicidad del protagonista:
+
+      > "Dark skies in my eyes / Looking at you like a knife"
+        (Cielos oscuros en mis ojos / Mirándote como un cuchillo).
+
+      El artista describe una mirada nublada por la depresión o la ansiedad, donde el contacto visual se siente afilado y doloroso.
+
+      > El artista describe una mirada nublada por la depresión o la ansiedad, donde el contacto visual se siente afilado y doloroso.
+
+      Aquí expone el choque entre una razón autodestructiva ("mente maldita") y la fragilidad emocional propia o de su entorno ("corazón sangriento").
+
+      > "Fighting day and night won't lead to immortality" (Pelear día y noche no nos llevará a la inmortalidad)
+
+      Una aceptación madura de que desgastarse en conflictos internos o de pareja no soluciona nada.
+
+      ## 2. La Transformación a Través del Baile (Pre-coro)
+
+      Frente a este panorama gris, aparece una oportunidad de cambio:
+
+      > "There's a chance to dance / I choose to spend it on you too / I took it and transform it too" (Hay una oportunidad para bailar / Elijo pasarla contigo también / La tomé y la transformé también)
+
+      El "baile" aquí es una clara metáfora de la vida. Decidir bailar implica dejar de ser un espectador de la propia miseria y tomar un rol activo para transmutar el dolor en movimiento y arte.
+
+      ## 3. El Refugio ante el Caos (Coro)
+
+      > "Make me dance eclipsing the shame" (Hazme bailar eclipsando la vergüenza)
+
+      El protagonista pide un estímulo externo (música, amor o conexión) para ocultar las inseguridades y culpas del pasado. El baile actúa como un "eclipse" temporal que bloquea lo negativo.
+
+      > "Earth is burning but there's no one to blame" (La Tierra se está quemando pero no hay nadie a quien culpar)
+
+      Representa el caos exterior o el colapso de la vida personal. Acepta que las crisis simplemente ocurren, liberándose de la carga de buscar culpables para poder enfocarse únicamente en sobrevivir disfrutando el presente.
+      
+      ## 4. La Reclamación del Derecho a Amar (Puente)
+
+      Hacia el final, la canción se vuelve un grito de resistencia:
+
+      > "Don't blame me for loving you right / Even if I die / Don't blame the flames" (No me culpes por amarte bien / Incluso si muero / No culpes a las llamas)
+
+      Se consolida el mensaje de libertad absoluta. El artista reivindica que dar amor de forma sana es su mayor victoria, incluso si el entorno ("las llamas") es hostil.
+
+      En resumen, la letra de "make me dance" es una declaración de resiliencia. Acepta que la mente puede ser un lugar oscuro y el mundo un lugar caótico, pero defiende que siempre queda la opción de elegir con quién y cómo "bailar" el tiempo que nos queda.
+      `,
     },
-    category: "DK3",
-    date: "2026-07-05",
-    readTime: "4 min",
-    albumId: 8
+    category: "Summeer breeze...",
+    date: "2026-07-07",
+    readTime: "3 min",
+    albumId: 4
     },
 
   { id: 2,
