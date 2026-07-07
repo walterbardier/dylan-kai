@@ -21,7 +21,7 @@ export const POSTS: PostData[] = [
       > "Dark skies in my eyes / Looking at you like a knife"
 
       The artist describes a gaze clouded by depression or anxiety, where eye contact feels sharp and painful.
-      
+
       > "I take it back / This isn't feeling right / My cursed mind / And your bloody heart"
 
       Here he exposes the clash between a self-destructive reason ("cursed mind") and the emotional fragility of himself or his surroundings ("bleeding heart").
