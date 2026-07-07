@@ -21,6 +21,8 @@ export const POSTS: PostData[] = [
       > "Dark skies in my eyes / Looking at you like a knife"
 
       The artist describes a gaze clouded by depression or anxiety, where eye contact feels sharp and painful.
+      
+      > "I take it back / This isn't feeling right / My cursed mind / And your bloody heart"
 
       Here he exposes the clash between a self-destructive reason ("cursed mind") and the emotional fragility of himself or his surroundings ("bleeding heart").
 
@@ -64,11 +66,11 @@ export const POSTS: PostData[] = [
       La canción arranca mostrando una profunda vulnerabilidad y una mente que sabotea la felicidad del protagonista:
 
       > "Dark skies in my eyes / Looking at you like a knife"
-        (Cielos oscuros en mis ojos / Mirándote como un cuchillo).
+        (Cielos oscuros en mis ojos / Mirándote como un cuchillo)
 
       El artista describe una mirada nublada por la depresión o la ansiedad, donde el contacto visual se siente afilado y doloroso.
 
-      > El artista describe una mirada nublada por la depresión o la ansiedad, donde el contacto visual se siente afilado y doloroso.
+      > "I take it back / This isn't feeling right / My cursed mind / And your bloody heart" (Me retracto / Esto no se siente bien / Mi mente maldita / Y tu corazón sangriento)
 
       Aquí expone el choque entre una razón autodestructiva ("mente maldita") y la fragilidad emocional propia o de su entorno ("corazón sangriento").
 
