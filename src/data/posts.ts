@@ -107,7 +107,7 @@ export const POSTS: PostData[] = [
       En resumen, la letra de "make me dance" es una declaración de resiliencia. Acepta que la mente puede ser un lugar oscuro y el mundo un lugar caótico, pero defiende que siempre queda la opción de elegir con quién y cómo "bailar" el tiempo que nos queda.
       `,
     },
-    category: "Summeer breeze...",
+    category: "Summer breeze...",
     date: "2026-07-07",
     readTime: "3 min",
     albumId: 4
@@ -471,11 +471,11 @@ export const POSTS: PostData[] = [
     },
     content: {
       en: `
-  # The Meaning Behind **TRUE ROMANCE**
+  # The Meaning Behind TRUE ROMANCE
 
   At first glance, **TRUE ROMANCE** may sound like another love song. Its title immediately evokes the image of two people finding each other, but Dylan Kai deliberately subverts that expectation. Instead of telling the story of a relationship, the song redirects every romantic gesture inward.
 
-  Built around shimmering electronic pop production, **TRUE ROMANCE** becomes an anthem about self-love, healing, and reclaiming one's own body. It transforms romance into something deeply personal: falling in love with the person you become after surviving yourself.
+  Built around shimmering electronic pop production, *TRUE ROMANCE** becomes an anthem about self-love, healing, and reclaiming one's own body. It transforms romance into something deeply personal: falling in love with the person you become after surviving yourself.
 
   ---
 
