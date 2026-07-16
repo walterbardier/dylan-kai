@@ -28,7 +28,7 @@ export const ALBUMS: AlbumData[] = [
       'Sixteen', 'Nobody Knows', 'Hey!', 'Falling', 'On The Top',
       'Ridiculous', "(DON'T BE SCARED)", "God's Things", 'Popstar', 'Honestly... How Ironic'
     ],
-    tags: ['dream pop', 'nostalgia', 'cosmic'],
+    tags: ['dream pop', 'synth pop', 'nostalgia', 'cosmic'],
 
     gallery: [
       '/images/album-1/album-1-bg.jpeg',
@@ -67,7 +67,7 @@ export const ALBUMS: AlbumData[] = [
       '(porque estamos solos) - Interlude', 'Holy City', 'Dark Emotions',
       'Wallet', 'Lemonade', 'Icy', 'Melodramatic Flashes', 'AW'
     ],
-    tags: ['alt-pop', 'dark', 'mental health'],
+    tags: ['alt pop', 'dark pop', 'mental health', 'dramatic', 'theatrical'],
 
     gallery: [
       '/images/album-2/album-2-bg.jpg',
@@ -86,6 +86,7 @@ export const ALBUMS: AlbumData[] = [
     appleMusicLink: 'https://music.apple.com/artist/dylan-kai/1483628579',
     youtubeLink: 'https://www.youtube.com/@dylankai21',
   },
+
   {
     id: 3, title: "Sally's Seams", year: 2023,
     cover: '/images/album-3/album-3.jpg', bg: '/images/album-3/album-3-bg.jpg',
@@ -103,7 +104,7 @@ export const ALBUMS: AlbumData[] = [
       'Open Road', 'Plaza Constitución', "Life isn't hard", 'Tell Me What You Want',
       'Van Gogh', 'Aquatic'
     ],
-    tags: ['indie folk', 'alt rock', 'autumn'],
+    tags: ['indie folk', 'alt rock', 'bedroom pop', 'autumn', 'dramatic'],
 
     gallery: [
       '/images/album-3/album-3-bg.jpg',
@@ -125,6 +126,7 @@ export const ALBUMS: AlbumData[] = [
     appleMusicLink: 'https://music.apple.com/artist/dylan-kai/1483628579',
     youtubeLink: 'https://www.youtube.com/@dylankai21',
   },
+
   {
     id: 4, title: 'Summer breeze guide me through these empty streets', year: 2024,
     cover: '/images/album-4/album-4.jpg', bg: '/images/album-4/album-4-bg.jpg',
@@ -143,7 +145,7 @@ export const ALBUMS: AlbumData[] = [
       "i'm the god", 'toy solo en lo frío', 'find your way', '21NGULAR',
       'trust me again', 'fate', 'remember...'
     ],
-    tags: ['dance pop', 'house', 'transformation'],
+    tags: ['dance pop', 'neo house', 'electronic', 'introspective', 'transformation'],
 
     gallery: [
       '/images/album-4/album-4-bg.jpg',
@@ -171,6 +173,7 @@ export const ALBUMS: AlbumData[] = [
     appleMusicLink: 'https://music.apple.com/artist/dylan-kai/1483628579',
     youtubeLink: 'https://www.youtube.com/@dylankai21',
   },
+
   {
     id: 5, title: 'Towa', year: 2026,
     cover: '/images/album-5/album-5.jpg', bg: '/images/album-5/album-5-bg.jpg',
@@ -188,7 +191,7 @@ export const ALBUMS: AlbumData[] = [
       'all over my body', 'Towa', 'my way', 'so dope', "you won't find that",
       'lose control', 'you never listened to me'
     ],
-    tags: ['alternative', 'sexual', 'meditation'],
+    tags: ['alternative', 'sexual', 'meditation', 'introspective'],
 
     gallery: [
       '/images/album-5/album-5-bg.jpg',
@@ -211,6 +214,7 @@ export const ALBUMS: AlbumData[] = [
     appleMusicLink: 'https://music.apple.com/artist/dylan-kai/1483628579',
     youtubeLink: 'https://www.youtube.com/@dylankai21',
   },
+
   {
     id: 6, title: 'cinephile', year: 2026,
     cover: '/images/album-6/album-6.jpg', bg: '/images/album-6/album-6-bg.jpg',
@@ -265,6 +269,7 @@ export const ALBUMS: AlbumData[] = [
     appleMusicLink: 'https://music.apple.com/artist/dylan-kai/1483628579',
     youtubeLink: 'https://www.youtube.com/@dylankai21',
   },
+
   {
     id: 8, title: '5 0 3', year: 2027,
     cover: '/images/album-8/album-8.jpg', bg: '/images/album-8/album-8-bg.jpg',
@@ -279,7 +284,7 @@ export const ALBUMS: AlbumData[] = [
     },
     songs: [
       "it's clear why", "the main course", "neo-realities", "h.e.a.r.t", "what am i now?", "is it for them?", 
-      "to the sky", "mine", "bac bitch look", "walls of a simulation", "shot shot shot", "moving on",
+      "to the sky", "mine", "bac bitch look", "walls of a simulation", "shot shot shot", "moving on", "human.liveOnce()",
     ],
     tags: ['dance pop', 'sci-fi', 'existential', 'identity'],
 
@@ -300,4 +305,5 @@ export const ALBUMS: AlbumData[] = [
     appleMusicLink: 'https://music.apple.com/artist/dylan-kai/1483628579',
     youtubeLink: 'https://www.youtube.com/@dylankai21',
   },
+
 ]
