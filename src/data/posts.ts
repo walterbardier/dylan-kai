@@ -784,7 +784,7 @@ export const POSTS: PostData[] = [
       en: `
         # Chapter I: Arcadia
 
-        > *"Freedom or death. The gods have cast us down."*
+        > "Freedom or death. The gods have cast us down."
 
         Three thousand years before Christ, the story begins in **Arcadia**, an idyllic land inspired by Greek mythology—a paradise where harmony, purity, and joy flourished among mortals. Nature and humanity coexisted beneath the watchful eyes of the creator gods, and evil had not yet touched the world.
 
@@ -792,7 +792,7 @@ export const POSTS: PostData[] = [
 
         It spoke of a truth buried deep beneath history, one that would inevitably rise to the surface.
 
-        > *"I see fire and destruction beneath the summer rain... but I also see a spark of hope fallen from the heavens—a light destined to change everything."*
+        > "I see fire and destruction beneath the summer rain... but I also see a spark of hope fallen from the heavens—a light destined to change everything."
 
         The prophecy spread quietly among Arcadia's people, becoming little more than a whispered legend. Few believed it.
 
@@ -804,9 +804,9 @@ export const POSTS: PostData[] = [
 
         As daylight faded and fear spread across the kingdom, a mysterious figure known only as **The Dark Prophet** spoke words that echoed through Arcadia in Ancient Greek:
 
-        > **«Ελευθερία ή θάνατος. Οι θεοί μάς έριξαν.»**
+        > «Ελευθερία ή θάνατος. Οι θεοί μάς έριξαν.»
 
-        > *"Freedom or death. The gods have cast us down."*
+        > "Freedom or death. The gods have cast us down."
 
         For the first time, humanity questioned the very beings they had worshipped for generations.
 
@@ -860,7 +860,7 @@ export const POSTS: PostData[] = [
       es: `
         # Capítulo I: Arcadia
 
-        > *«Libertad o muerte. Los dioses nos hicieron caer.»*
+        > «Libertad o muerte. Los dioses nos hicieron caer.»
 
         La historia comienza tres mil años antes de Cristo, en **Arcadia**, un rincón idílico inspirado en la mitología griega: un paraíso terrenal donde reinaban la armonía, la pureza y la dicha. Los hombres convivían en paz con la naturaleza y con los dioses creadores, y el mal aún no había encontrado el camino hacia aquellas tierras.
 
@@ -868,7 +868,7 @@ export const POSTS: PostData[] = [
 
         Hablaba de una verdad sepultada que, tarde o temprano, encontraría su camino hacia la luz.
 
-        > *«Veo fuego y destrucción bajo la lluvia de verano... pero también una chispa de esperanza que ha caído del cielo: una luz destinada a cambiarlo todo.»*
+        > «Veo fuego y destrucción bajo la lluvia de verano... pero también una chispa de esperanza que ha caído del cielo: una luz destinada a cambiarlo todo.»
 
         Durante años, aquellas palabras sobrevivieron como un simple susurro entre los habitantes de Arcadia.
 
@@ -880,9 +880,9 @@ export const POSTS: PostData[] = [
 
         Cuando la luz desapareció y el miedo comenzó a recorrer el reino, una figura conocida únicamente como **el Profeta Oscuro** pronunció unas palabras que quedarían grabadas para siempre en la historia de Arcadia.
 
-        > **«Ελευθερία ή θάνατος. Οι θεοί μάς έριξαν.»**
+        > «Ελευθερία ή θάνατος. Οι θεοί μάς έριξαν.»
 
-        > *«Libertad o muerte. Los dioses nos hicieron caer.»*
+        > «Libertad o muerte. Los dioses nos hicieron caer.»
 
         Por primera vez, los hombres comenzaron a cuestionar a los mismos dioses que habían venerado durante generaciones.
 
@@ -892,7 +892,7 @@ export const POSTS: PostData[] = [
 
         Poco después, una súplica recorrió toda Arcadia.
 
-        > *«Sálvanos de esta tierra. Sálvanos de esta tierra.»*
+        > «Sálvanos de esta tierra. Sálvanos de esta tierra.»
 
         Y el paraíso comenzó a resquebrajarse.
 
@@ -1187,8 +1187,7 @@ export const POSTS: PostData[] = [
     albumId: 7
   },
 
-  {
-    id: 10,
+  { id: 10,
     title: {
       en: "DIVINE LAW — Chapter III: Divine Law",
       es: "DIVINE LAW — Cap. III: Divine Law"
