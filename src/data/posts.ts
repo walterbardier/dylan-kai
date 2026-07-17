@@ -709,4 +709,879 @@ export const POSTS: PostData[] = [
   },
 
 
+  // DIVINE LAW Posts
+  { id: 7,
+    title: {
+      en: "DIVINE LAW — Prologue",
+      es: "DIVINE LAW — Prólogo"
+    },
+  
+    excerpt: {
+      en: "Three thousand years before Christ, a fallen star changed the fate of Arcadia forever.",
+      es: "Tres mil años antes de Cristo, una estrella caída cambió para siempre el destino de Arcadia."
+    },
+  
+    content: {
+      en: `
+        # Prologue
+
+        Long ago—three thousand years before Christ—a star descended upon the First Arcadia, crossing the heavens like an omen written in light. Its fall was anything but silent. Where it struck the earth, a prophecy was born, sealed in fire and divinity, destined to alter the course of the world forever.
+
+        From that day onward, nothing was ever the same.
+
+        The creator gods, once the guides and protectors of humankind, turned against the mortals. Blessings became curses. Temples stood abandoned. And paradise, once believed to be eternal, began to fracture.
+
+        Yet even amid the devastation, the fallen star carried something greater than ruin.
+
+        It had arrived bearing a fragment of hope.
+
+        An ancient light, incomprehensible to mankind... and even to the star itself.
+
+        > No one could have imagined that this silent radiance would become the spark of a revolution capable of challenging even divine law.
+
+        And that, one day, the heavens themselves would be forced to answer for what they had created.
+        `,
+  
+      es: `
+        # Prólogo
+
+        Hace mucho tiempo —tres mil años antes de Cristo— una estrella descendió sobre la Primera Arcadia, atravesando los cielos como un presagio escrito en luz. Su caída no fue silenciosa. Allí donde tocó la tierra nació una profecía, sellada entre fuego y divinidad, destinada a alterar para siempre el curso del mundo.
+
+        Desde aquel día, nada volvió a ser igual.
+
+        Los dioses creadores, que alguna vez fueron guías y protectores de la humanidad, volvieron su mirada contra los mortales. Las bendiciones se transformaron en condenas. Los templos quedaron vacíos. Y el paraíso, que parecía eterno, comenzó a resquebrajarse.
+
+        Sin embargo, incluso entre la devastación, la estrella caída ocultaba algo más que destrucción.
+
+        Había llegado portando un fragmento de esperanza.
+
+        Una luz antigua, incomprensible tanto para los hombres... como para la propia estrella.
+
+        > Nadie podía imaginar que aquel resplandor silencioso sería el origen de una revolución capaz de desafiar incluso las leyes divinas.
+
+        Y que, algún día, el cielo tendría que responder por aquello que había creado.
+        `,
+    },
+  
+    category: "DIVINE LAW",
+    date: "2026-07-17",
+    readTime: "3 min",
+    albumId: 7
+  },
+
+  { id: 8,
+    title: {
+      en: "DIVINE LAW — Chapter I: Arcadia",
+      es: "DIVINE LAW — Cap. I: Arcadia"
+    },
+
+    excerpt: {
+      en: "Three thousand years before Christ, Arcadia lived in perfect harmony—until an ancient prophecy foretold the fall of a star and the end of paradise.",
+      es: "Tres mil años antes de Cristo, Arcadia vivía en perfecta armonía... hasta que una antigua profecía anunció la caída de una estrella y el fin del paraíso."
+    },
+
+    content: {
+      en: `
+        # Chapter I: Arcadia
+
+        > *"Freedom or death. The gods have cast us down."*
+
+        Three thousand years before Christ, the story begins in **Arcadia**, an idyllic land inspired by Greek mythology—a paradise where harmony, purity, and joy flourished among mortals. Nature and humanity coexisted beneath the watchful eyes of the creator gods, and evil had not yet touched the world.
+
+        But beneath that peace, an ancient prophecy waited to be fulfilled.
+
+        It spoke of a truth buried deep beneath history, one that would inevitably rise to the surface.
+
+        > *"I see fire and destruction beneath the summer rain... but I also see a spark of hope fallen from the heavens—a light destined to change everything."*
+
+        The prophecy spread quietly among Arcadia's people, becoming little more than a whispered legend. Few believed it.
+
+        Until the sky began to change.
+
+        ---
+
+        ## The Dark Prophet
+
+        As daylight faded and fear spread across the kingdom, a mysterious figure known only as **The Dark Prophet** spoke words that echoed through Arcadia in Ancient Greek:
+
+        > **«Ελευθερία ή θάνατος. Οι θεοί μάς έριξαν.»**
+
+        > *"Freedom or death. The gods have cast us down."*
+
+        For the first time, humanity questioned the very beings they had worshipped for generations.
+
+        Were the gods still their protectors...
+
+        Or had they become their executioners?
+
+        Soon, voices rose across the land in desperate unison:
+
+        > *"Save us from this land. Save us from this land."*
+
+        Paradise had begun to crack.
+
+        ---
+
+        ## A Child Without a Sky
+
+        While Arcadia descended into uncertainty, another story unfolded far from the temples and frightened crowds.
+
+        A young boy had survived the impossible.
+
+        Found beside the river where the fallen star had disappeared, he was taken in by an elderly woman living alone in a small cabin deep within the forest.
+
+        She raised him as her own.
+
+        The child grew without knowing his true origin, carrying only the silence surrounding the day he had been found.
+
+        As years passed, the prophecy transformed into fear.
+
+        The people believed something supernatural had fallen from the heavens as punishment from the gods. Anything unusual became suspicious. Difference was condemned. Those who stood apart were feared.
+
+        Growing up beneath those beliefs, Dylan Kai slowly began discovering abilities no ordinary human possessed.
+
+        They appeared during moments of anger.
+
+        Moments of grief.
+
+        Moments of instinct.
+
+        He feared what he was becoming.
+
+        Perhaps the stories were true.
+
+        Perhaps he really was the curse the prophecy had foretold.
+
+        Every new power pushed him further away from the only family he had ever known, until even he began wondering whether he belonged among humans at all.
+
+        The heavens had abandoned him long before he ever knew they were his home.
+      `,
+
+      es: `
+        # Capítulo I: Arcadia
+
+        > *«Libertad o muerte. Los dioses nos hicieron caer.»*
+
+        La historia comienza tres mil años antes de Cristo, en **Arcadia**, un rincón idílico inspirado en la mitología griega: un paraíso terrenal donde reinaban la armonía, la pureza y la dicha. Los hombres convivían en paz con la naturaleza y con los dioses creadores, y el mal aún no había encontrado el camino hacia aquellas tierras.
+
+        Sin embargo, bajo esa aparente calma, una antigua profecía aguardaba el momento de cumplirse.
+
+        Hablaba de una verdad sepultada que, tarde o temprano, encontraría su camino hacia la luz.
+
+        > *«Veo fuego y destrucción bajo la lluvia de verano... pero también una chispa de esperanza que ha caído del cielo: una luz destinada a cambiarlo todo.»*
+
+        Durante años, aquellas palabras sobrevivieron como un simple susurro entre los habitantes de Arcadia.
+
+        Hasta que el cielo comenzó a oscurecerse.
+
+        ---
+
+        ## El Profeta Oscuro
+
+        Cuando la luz desapareció y el miedo comenzó a recorrer el reino, una figura conocida únicamente como **el Profeta Oscuro** pronunció unas palabras que quedarían grabadas para siempre en la historia de Arcadia.
+
+        > **«Ελευθερία ή θάνατος. Οι θεοί μάς έριξαν.»**
+
+        > *«Libertad o muerte. Los dioses nos hicieron caer.»*
+
+        Por primera vez, los hombres comenzaron a cuestionar a los mismos dioses que habían venerado durante generaciones.
+
+        ¿Seguían siendo sus protectores...
+
+        o se habían convertido en sus verdugos?
+
+        Poco después, una súplica recorrió toda Arcadia.
+
+        > *«Sálvanos de esta tierra. Sálvanos de esta tierra.»*
+
+        Y el paraíso comenzó a resquebrajarse.
+
+        ---
+
+        ## Un niño sin cielo
+
+        Mientras Arcadia se hundía en el temor, otra historia comenzaba lejos de los templos y de las multitudes.
+
+        Un niño había sobrevivido a lo imposible.
+
+        Fue encontrado junto al río donde la estrella había desaparecido tras caer del cielo, y una anciana que vivía sola en una pequeña cabaña del bosque decidió criarlo como a su propio hijo.
+
+        Dylan Kai creció sin conocer su verdadero origen.
+
+        Solo heredó el silencio que rodeaba el día de su llegada.
+
+        Con el paso de los años, la profecía dejó de ser un mito para convertirse en un miedo colectivo.
+
+        Los habitantes de Arcadia comenzaron a creer que algo sobrenatural había descendido del cielo como castigo de los dioses. Todo aquello que rompiera la normalidad era rechazado. Lo diferente despertaba sospechas.
+
+        Criado entre esos prejuicios, Dylan empezó a descubrir habilidades imposibles de explicar.
+
+        Siempre aparecían durante momentos de ira.
+
+        De dolor.
+
+        O de desesperación.
+
+        Él mismo comenzó a preguntarse si estaba maldito.
+
+        Si, en realidad, era aquella aberración que todos temían.
+
+        Cada nuevo poder lo alejaba un poco más de la familia que lo había criado y del mundo al que intentaba pertenecer.
+
+        Sin saberlo, llevaba toda una vida buscando un hogar que el cielo le había arrebatado antes incluso de nacer.
+      `
+    },
+
+    category: "DIVINE LAW",
+    date: "2026-07-17",
+    readTime: "6 min",
+    albumId: 7
+  },
+
+  { id: 9,
+    title: {
+      en: "DIVINE LAW — Chapter II: Call Me Aphrodite",
+      es: "DIVINE LAW — Cap. II: Call Me Aphrodite"
+    },
+
+    excerpt: {
+      en: "Dylan Kai discovers the truth behind the prophecy: he is the fallen star destined to reshape Arcadia and challenge the gods themselves.",
+      es: "Dylan Kai descubre la verdad detrás de la profecía: él es la estrella caída destinada a transformar Arcadia y desafiar a los propios dioses."
+    },
+
+    content: {
+      en: `
+        # Chapter II: Call Me Aphrodite
+
+        > *"God is dead, and heaven has abandoned me."*
+
+        By the time **Call Me Aphrodite** begins, Dylan Kai is no longer the frightened child who feared his own abilities.
+
+        He has grown into a young man searching for answers.
+
+        And at last, he discovers the truth.
+
+        The ancient prophecy was never speaking about a distant celestial event.
+
+        It was speaking about him.
+
+        Dylan Kai is the fallen star—the divine light that descended from the heavens to alter the fate of Arcadia forever.
+
+        He is not simply human.
+
+        He is a demigod.
+
+        A child born from divine sin, cast from heaven to earth, becoming the fracture that shattered the sacred order itself.
+
+        Ironically, what the gods intended as punishment became humanity's greatest hope.
+
+        ---
+
+        ## The Death of Heaven
+
+        One of the song's defining moments arrives with the line:
+
+        > *"God is dead, and heaven has abandoned me."*
+
+        Rather than describing the literal death of a deity, the phrase marks the symbolic collapse of the relationship between gods and mankind.
+
+        The heavens no longer protect Arcadia.
+
+        They have turned away from it.
+
+        For Dylan, the abandonment is deeply personal.
+
+        He was cast down before he ever had the chance to know where he belonged.
+
+        The paradise that should have welcomed him instead rejected him.
+
+        ---
+
+        ## The Fall of Themis
+
+        Another crucial verse reveals the true beginning of Arcadia's downfall:
+
+        > *"Themis left us, and I emerged from the water."*
+
+        Within the mythology of **DIVINE LAW**, **Themis**, goddess of justice and divine order, represents the balance that once governed both heaven and earth.
+
+        Her disappearance marks the first crack in creation.
+
+        Justice vanished before destruction arrived.
+
+        Only then could chaos spread freely.
+
+        From that imbalance, Dylan Kai was born.
+
+        Cast from the heavens into the depths below, he emerged from the river carrying the consequences of a crime he never committed.
+
+        His birth is inseparable from the collapse of divine justice.
+
+        ---
+
+        ## A Second Birth
+
+        Emerging from the water is more than the story of his arrival on Earth.
+
+        It is a rebirth.
+
+        Water becomes the boundary between two lives.
+
+        One ended in heaven.
+
+        The other begins among mortals.
+
+        With every verse, Dylan slowly embraces the ambition that destiny had hidden inside him.
+
+        His purpose grows stronger.
+
+        He is no longer searching for answers.
+
+        He is becoming one.
+
+        ---
+
+        ## The Hope the Gods Never Intended
+
+        Unlike the heroes of ancient mythology, Dylan Kai is never chosen by the gods.
+
+        He is created by their failure.
+
+        He exists because heaven broke its own laws.
+
+        That is precisely what makes him dangerous.
+
+        He owes nothing to Olympus.
+
+        Nothing to the throne that abandoned him.
+
+        Nothing to the divine order that condemned him before he was born.
+
+        Dylan Kai is not the gods' chosen one.
+
+        He is what remained after they disappeared.
+
+        And that makes him infinitely more powerful.
+      `,
+
+      es: `
+        # Capítulo II: Call Me Aphrodite
+
+        > *«Dios ha muerto y el cielo me ha abandonado.»*
+
+        Cuando comienza **Call Me Aphrodite**, Dylan Kai ya no es el niño que temía a sus propios poderes.
+
+        Ahora es un joven que busca respuestas.
+
+        Y finalmente encuentra la verdad.
+
+        La antigua profecía nunca hablaba de una estrella cualquiera.
+
+        Siempre habló de él.
+
+        Dylan Kai es la estrella caída, el resplandor divino que descendió del cielo para alterar para siempre el destino de Arcadia.
+
+        No es un hombre común.
+
+        Es un semidiós.
+
+        El hijo de un pecado divino, arrojado desde los cielos hacia la Tierra y convertido en la ruptura del orden sagrado.
+
+        Paradójicamente, aquello que los dioses concibieron como un castigo terminó convirtiéndose en la mayor esperanza de la humanidad.
+
+        ---
+
+        ## La muerte del cielo
+
+        Uno de los momentos más importantes de la canción llega con la frase:
+
+        > *«Dios ha muerto y el cielo me ha abandonado.»*
+
+        Más que anunciar la muerte literal de un dios, estas palabras representan el derrumbe del vínculo entre las divinidades y los hombres.
+
+        El cielo ya no protege a Arcadia.
+
+        La ha abandonado.
+
+        Para Dylan, ese abandono también es personal.
+
+        Fue expulsado incluso antes de comprender quién era realmente.
+
+        El mismo paraíso al que pertenecía decidió rechazarlo.
+
+        ---
+
+        ## La caída de Themis
+
+        Otro de los versos fundamentales de la canción revela el verdadero comienzo de la tragedia:
+
+        > *«Themis nos dejó y yo emergí del agua.»*
+
+        Dentro de la mitología de **DIVINE LAW**, **Themis**, diosa de la justicia y del orden divino, representa el equilibrio que mantenía unido el cielo con la Tierra.
+
+        Su desaparición marca la primera grieta del universo.
+
+        La justicia desapareció antes de que llegara la destrucción.
+
+        Solo entonces el caos pudo extenderse.
+
+        Y de ese desequilibrio nació Dylan Kai.
+
+        Arrojado desde los cielos hasta las profundidades del agua, emergió entre los humanos cargando el peso de una culpa que jamás le perteneció.
+
+        Su nacimiento es inseparable del colapso de la justicia divina.
+
+        ---
+
+        ## Un segundo nacimiento
+
+        Emerger del agua no representa únicamente su llegada al mundo mortal.
+
+        Representa un renacimiento.
+
+        El agua separa dos vidas.
+
+        Una terminó en el cielo.
+
+        La otra comienza en Arcadia.
+
+        Con cada verso de la canción, la ambición comienza a despertar dentro de Dylan.
+
+        Su propósito deja de ser una incógnita.
+
+        Empieza a convertirse en una certeza.
+
+        No solo está destinado a salvar su tierra.
+
+        Está destinado a redefinirla.
+
+        ---
+
+        ## La esperanza que los dioses nunca planearon
+
+        A diferencia de los héroes clásicos, Dylan Kai jamás fue elegido por los dioses.
+
+        Es consecuencia de su fracaso.
+
+        Existe porque el propio cielo rompió sus propias leyes.
+
+        Y eso es precisamente lo que lo vuelve peligroso.
+
+        No le debe nada al Olimpo.
+
+        Nada al trono que lo desterró.
+
+        Nada al orden divino que decidió condenarlo antes incluso de nacer.
+
+        Dylan Kai no es el elegido de los dioses.
+
+        Es el resultado de su ausencia.
+
+        Y eso lo hace aún más poderoso.
+      `
+    },
+
+    category: "DIVINE LAW",
+    date: "2026-07-17",
+    readTime: "6 min",
+    albumId: 7
+  },
+
+  {
+    id: 10,
+    title: {
+      en: "DIVINE LAW — Chapter III: Divine Law",
+      es: "DIVINE LAW — Cap. III: Divine Law"
+    },
+
+    excerpt: {
+      en: "No longer the fallen child, Dylan Kai declares war on heaven itself, forcing the gods to answer for the laws they once broke.",
+      es: "Ya no es el niño caído. Dylan Kai declara la guerra al cielo y obliga a los dioses a responder por las leyes que ellos mismos quebrantaron."
+    },
+
+    content: {
+      en: `
+  # Chapter III: Divine Law
+
+  > *"The storm you created now returns to you."*
+
+  By the time **Divine Law** begins, Dylan Kai has fully embraced the truth of who he is.
+
+  He no longer searches for answers.
+
+  He has become the answer.
+
+  Standing upon the earth that raised him, the Fallen Primeval turns his eyes toward the heavens that rejected him.
+
+  For the first time, heaven is no longer beyond his reach.
+
+  And for the first time, the gods are forced to listen.
+
+  What returns to them is not blind revenge.
+
+  It is judgment.
+
+  The very storm they unleashed upon humanity has found its way back to its creators.
+
+  ---
+
+  ## Heaven Stands Trial
+
+  The skies, once believed to be eternal and untouchable, begin to tremble.
+
+  The balance of creation shifts.
+
+  **Themis**, goddess of justice, has finally been freed.
+
+  For centuries, divine order existed only as an illusion sustained by fear.
+
+  Now justice returns.
+
+  And with it comes a verdict.
+
+  The Primeval God of Heaven—the father of Dylan Kai and ruler of the celestial kingdom—is declared guilty of countless sins, betrayals, and injustices committed against both mortals and his own blood.
+
+  The heavens are no longer above the law.
+
+  For the first time...
+
+  they must answer to it.
+
+  ---
+
+  ## Becoming the Storm
+
+  Throughout the song, wind becomes more than atmosphere.
+
+  It becomes Dylan Kai himself.
+
+  Layers of rushing air surround every verse, creating the feeling that nature is responding to his awakening.
+
+  The storm is no longer a punishment sent by the gods.
+
+  It has become an extension of the fallen son.
+
+  Every gust carries his anger.
+
+  Every silence carries his resolve.
+
+  The elements no longer obey heaven.
+
+  They obey him.
+
+  ---
+
+  ## The Law Rewritten
+
+  The boy abandoned by the sky has become something the gods never imagined.
+
+  A force of nature.
+
+  A living consequence of their own injustice.
+
+  He no longer begs.
+
+  He no longer obeys.
+
+  The divine order that once condemned him has begun to collapse beneath its own hypocrisy.
+
+  For the first time since the prophecy was spoken, the future no longer belongs to heaven.
+
+  It belongs to the one they cast away.
+
+  The fallen son has become the author of a new divine law.
+  `,
+
+      es: `
+  # Capítulo III: Divine Law
+
+  > *«La tormenta que creaste ahora se desata sobre ti.»*
+
+  Cuando comienza **Divine Law**, Dylan Kai ha aceptado por completo la verdad de su origen.
+
+  Ya no busca respuestas.
+
+  Él mismo se ha convertido en la respuesta.
+
+  De pie sobre la tierra que lo vio crecer, el Caído Primigenio dirige su mirada hacia el cielo que lo desterró.
+
+  Por primera vez, el firmamento ya no está fuera de su alcance.
+
+  Y, por primera vez, los dioses se ven obligados a escuchar.
+
+  Lo que les devuelve no es una venganza ciega.
+
+  Es un juicio.
+
+  La misma tempestad que ellos desataron sobre los mortales regresa ahora hacia quienes la crearon.
+
+  ---
+
+  ## El cielo es juzgado
+
+  El firmamento, que durante siglos pareció eterno e inquebrantable, comienza a temblar.
+
+  El equilibrio del universo cambia.
+
+  **Themis**, diosa de la justicia, ha sido finalmente liberada.
+
+  Durante demasiado tiempo, el orden divino no fue más que una ilusión sostenida por el miedo.
+
+  Ahora la justicia ha regresado.
+
+  Y con ella llega una sentencia.
+
+  El Dios Primigenio del Cielo, padre de Dylan Kai y soberano del reino celestial, es declarado culpable de innumerables pecados, traiciones e injusticias cometidas tanto contra los mortales como contra su propio hijo.
+
+  Por primera vez, los dioses dejan de estar por encima de sus propias leyes.
+
+  Ahora son ellos quienes deben responder ante ellas.
+
+  ---
+
+  ## Convertirse en la tormenta
+
+  A lo largo de la canción, el viento deja de ser un simple recurso sonoro.
+
+  Se convierte en la propia presencia de Dylan Kai.
+
+  Capas de aire envuelven cada verso, construyendo una atmósfera cinematográfica donde la naturaleza parece responder a su despertar.
+
+  La tormenta ya no pertenece al cielo.
+
+  Ahora le pertenece a él.
+
+  Cada ráfaga transporta su ira.
+
+  Cada silencio refleja su determinación.
+
+  Los elementos han dejado de obedecer a los dioses.
+
+  Obedecen al hijo que intentaron destruir.
+
+  ---
+
+  ## Una nueva ley divina
+
+  El niño abandonado por el cielo se ha convertido en aquello que los dioses jamás imaginaron.
+
+  Una fuerza de la naturaleza.
+
+  La consecuencia viviente de sus propias injusticias.
+
+  Ya no ruega.
+
+  Ya no obedece.
+
+  El orden divino que una vez lo condenó comienza a derrumbarse bajo el peso de su propia corrupción.
+
+  Por primera vez desde que la profecía fue pronunciada, el destino ya no pertenece al cielo.
+
+  Pertenece a quien fue expulsado de él.
+
+  El hijo caído ya no desafía la ley divina.
+
+  Ahora es él quien la reescribe.
+  `
+    },
+
+    category: "DIVINE LAW",
+    date: "2026-07-17",
+    readTime: "6 min",
+    albumId: 7
+  },
+
+  { id: 11,
+    title: {
+      en: "DIVINE LAW — Chapter IV: Sodom",
+      es: "DIVINE LAW — Cap. IV: Sodom"
+    },
+
+    excerpt: {
+      en: "An instrumental descent into chaos, where heaven falls silent, humanity waits, and an unknown figure begins moving among mortals.",
+      es: "Un descenso instrumental hacia el caos, donde el cielo guarda silencio, la humanidad espera y un desconocido comienza a caminar entre los mortales."
+    },
+
+    content: {
+      en: `
+  # Chapter IV: Sodom
+
+  > *Sometimes the most important moments are the ones where no one speaks.*
+
+  Unlike the previous chapters, **Sodom** contains no lyrics.
+
+  Its story is told entirely through atmosphere.
+
+  Following the judgment of the God of Heaven, both Arcadia and the celestial realm enter an uneasy silence. The verdict has been delivered, yet its consequences remain uncertain.
+
+  No one knows whether the ruler of heaven will accept his sentence...
+
+  Or whether he will plunge both worlds into an even greater catastrophe.
+
+  ---
+
+  ## A World Holding Its Breath
+
+  The music unfolds like a suspended moment between two eras.
+
+  Humanity waits.
+
+  The gods wait.
+
+  Even nature seems unwilling to move.
+
+  The tension no longer comes from battle, but from uncertainty.
+
+  Every sound feels distant.
+
+  Every silence feels heavier than the last.
+
+  The world itself appears to be holding its breath.
+
+  ---
+
+  ## Heaven Without Order
+
+  With divine justice restored, the celestial order begins to fracture.
+
+  The authority that once governed heaven has become unstable.
+
+  Without certainty, fear spreads through both realms.
+
+  The boundaries separating gods from mortals begin to dissolve.
+
+  The old order is dying.
+
+  Whatever comes next has yet to reveal itself.
+
+  ---
+
+  ## The Stranger
+
+  As the final moments of **Sodom** approach, the silence is broken.
+
+  Footsteps.
+
+  Slow.
+
+  Measured.
+
+  Someone unknown walks through the darkness.
+
+  The figure quietly dresses in the clothes of a mortal, concealing every trace of divinity before entering a secluded home.
+
+  A struggle follows.
+
+  Then silence.
+
+  The stranger has rendered someone unconscious.
+
+  The identity of both figures remains hidden.
+
+  Only one truth is left behind.
+
+  Someone from heaven has entered the world of men.
+
+  And the next chapter has already begun.
+  `,
+
+      es: `
+  # Capítulo IV: Sodom
+
+  > *A veces, los momentos más importantes son aquellos en los que nadie pronuncia una sola palabra.*
+
+  A diferencia de los capítulos anteriores, **Sodom** no contiene letra.
+
+  Su historia se cuenta únicamente a través de la atmósfera.
+
+  Tras el juicio contra el Dios Primigenio del Cielo, tanto Arcadia como el reino celestial quedan suspendidos en un silencio inquietante. La sentencia ha sido pronunciada, pero sus consecuencias aún son desconocidas.
+
+  Nadie sabe si el soberano aceptará su condena...
+
+  O si arrastrará a ambos mundos hacia un desastre todavía mayor.
+
+  ---
+
+  ## Un mundo conteniendo el aliento
+
+  La composición avanza como un instante detenido entre dos épocas.
+
+  Los humanos esperan.
+
+  Los dioses esperan.
+
+  Incluso la naturaleza parece negarse a moverse.
+
+  La tensión ya no nace del enfrentamiento.
+
+  Nace de la incertidumbre.
+
+  Cada sonido parece lejano.
+
+  Cada silencio pesa más que el anterior.
+
+  Es como si el propio mundo estuviera conteniendo el aliento antes de lo inevitable.
+
+  ---
+
+  ## El cielo sin orden
+
+  Con la justicia divina restaurada, el equilibrio del firmamento comienza a romperse.
+
+  La autoridad que sostuvo el reino celestial durante siglos se vuelve frágil.
+
+  La incertidumbre se expande entre dioses y mortales.
+
+  Las fronteras que separaban ambos mundos empiezan a desaparecer.
+
+  El antiguo orden está muriendo.
+
+  Y nadie sabe todavía qué ocupará su lugar.
+
+  ---
+
+  ## El desconocido
+
+  En los últimos instantes de **Sodom**, el silencio finalmente se rompe.
+
+  Se escuchan unos pasos.
+
+  Lentos.
+
+  Firmes.
+
+  Una figura desconocida avanza entre las sombras.
+
+  Con calma, se cubre con las ropas de un mortal, ocultando cualquier rastro de su verdadera identidad.
+
+  Después entra en la casa de alguien.
+
+  Se oye un breve forcejeo.
+
+  Y, de pronto...
+
+  silencio.
+
+  El desconocido ha dejado inconsciente a quien vivía allí.
+
+  Nunca se revela quién es.
+
+  Tampoco quién fue su víctima.
+
+  Solo queda una certeza.
+
+  Alguien proveniente del cielo ha comenzado a caminar entre los hombres.
+
+  Y la historia está a punto de cambiar una vez más.
+  `
+    },
+
+    category: "DIVINE LAW",
+    date: "2026-07-17",
+    readTime: "4 min",
+    albumId: 7
+  },
+
+
+
 ];
